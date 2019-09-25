@@ -1,0 +1,9 @@
+C:\Users\g.marino\Desktop\CoupleGame\CoupleGame\bin\Debug\CoupleGame.exe.config
+C:\Users\g.marino\Desktop\CoupleGame\CoupleGame\bin\Debug\CoupleGame.exe
+C:\Users\g.marino\Desktop\CoupleGame\CoupleGame\bin\Debug\CoupleGame.pdb
+C:\Users\g.marino\Desktop\CoupleGame\CoupleGame\obj\Debug\MatchingGame.csprojResolveAssemblyReference.cache
+C:\Users\g.marino\Desktop\CoupleGame\CoupleGame\obj\Debug\CoupleGame.Form1.resources
+C:\Users\g.marino\Desktop\CoupleGame\CoupleGame\obj\Debug\CoupleGame.Properties.Resources.resources
+C:\Users\g.marino\Desktop\CoupleGame\CoupleGame\obj\Debug\MatchingGame.csproj.GenerateResource.Cache
+C:\Users\g.marino\Desktop\CoupleGame\CoupleGame\obj\Debug\CoupleGame.exe
+C:\Users\g.marino\Desktop\CoupleGame\CoupleGame\obj\Debug\CoupleGame.pdb
